@@ -38,9 +38,7 @@ An **Online E-Channeling Solution** for clinics and hospitals, designed and deve
 1. Search for a doctor  
 2. View the doctor's schedule  
 3. Book an appointment with just a few clicks  
-
-_"So easy to book appointments online, highly recommended!"_ — **Md. Biplob**
-
+ 
 ---
 
 ## 📌 Schema
